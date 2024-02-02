@@ -1,0 +1,161 @@
+#skills {
+        overflow: hidden;
+        width: 100vw;
+        max-width: 65rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+
+    
+}
+.skillTitle {
+    font-size: 2rem;
+    font-weight: 600;
+    padding-top: 5rem;
+    text-align: center;
+    margin-bottom: 4rem;
+    color: grey;
+
+
+}
+.skillBars {
+    margin: 1.5rem;
+    width: 100vw;
+    max-width:100%;
+    justify-content: space-between;
+    padding : 1rem 2rem;
+    
+}
+.skillBar {
+    display: flex;
+    text-align: left;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: rgb(32, 32, 32);
+
+}
+.skillBarImg {
+    object-fit: cover;
+    height:20rem;
+    width :20rem;
+    margin-right: 2rem;
+
+}
+.skillBarText> h4 {
+    
+    margin-left: 2rem;
+    margin-top: 3rem;
+    font-size:1rem;
+    
+
+}
+.skillBarText>p {
+    margin-left: 2rem;
+    margin-top: 1rem;
+    font-size:1.5rem;
+    color: grey;
+    
+
+
+}
+.btn {
+    margin-left: 2rem;
+    margin-top: 1rem;
+    background: grey;
+    padding: 0.75rem 0.75rem;
+     border:none;
+     border-radius: 2rem;
+
+}
+.skillBar1 {
+
+    display: flex;
+    text-align: left;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: rgb(32,32,32);
+
+
+
+}
+.skillBarText1>h4 {
+    margin-left: 2rem;
+    margin-top: 2rem;
+    font-size:1rem;
+    
+
+}
+.skillBarText1>p {
+   margin-right: 2rem;
+    margin-top: 1rem;
+    font-size:1.5rem;
+    color: grey;
+    
+
+
+}
+
+.skillBarImg1 {
+    object-fit:cover;
+    align-Self: 'flex-end';
+    height:20rem;
+    width :20rem;
+    margin-left: 6rem;
+   
+}
+
+.btn1 {
+    margin-left: 2rem;
+    margin-top: 1rem;
+    background: grey;
+    padding: 0.75rem 0.75rem;
+     border:none;
+     border-radius: 2rem;
+
+
+}
+.skillBarImg2 {
+    object-fit: cover;
+    height:20rem;
+    width :20rem;
+    margin-left: 1rem;
+;
+   
+}
+.skillBarText2>h4 {
+    margin-left: 2rem;
+    margin-top: 8rem;
+    font-size:1rem;
+    
+
+}
+.skillBarText2>p {
+   margin-right:2rem;
+    margin-top: 1rem;
+    font-size:  1.5rem;
+    color: grey;
+    
+
+
+}
+.footerTitle {
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 5rem;
+    text-align: center;
+    
+    color: grey;
+
+
+
+}
+.footerdesc {
+    font-size: 1rem;
+    font-weight: 600;
+    padding-top: 2rem;
+    
+
+
+}
